@@ -3,6 +3,7 @@
 
 # In[5]:
 
+# original code provided by Julian Marx
 
 from yahoo_fin import stock_info as si
 from matplotlib import pyplot as plt 
